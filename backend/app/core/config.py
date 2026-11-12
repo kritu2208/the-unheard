@@ -11,10 +11,9 @@ class Settings(BaseSettings):
     app_version: str = "1.0.0-phase1"
     environment: str = "development"
     api_prefix: str = "/api"
-    database_url: str = "sqlite:///./the_unheard_dashboard.db"
+    database_url: str = "sqlite:///./the_unheard.db"
     cors_origins: List[str] = [
-        "http://localhost:5173",
-        "http://127.0.0.1:5173",
+        "*",
     ]
 
     model_config = SettingsConfigDict(

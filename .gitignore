@@ -5,9 +5,7 @@ __pycache__/
 .venv/
 venv/
 env/
-*.db
-*.sqlite
-*.sqlite3
+the_unheard_dashboard.db
 
 # Node / Frontend
 node_modules/
