@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.db
+*.sqlite
+*.sqlite3
+
+# Node / Frontend
+node_modules/
+frontend/dist/
+frontend/.vite/
+*.tsbuildinfo
+*.local
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Raw & processed datasets (preserve directory structure)
+data/raw/*
+data/processed/*
+
+# OS & Editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

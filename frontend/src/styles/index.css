@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    background-color: #101012;
+    color: #f5f2ef;
+  }
+
+  body {
+    font-family: "Inter", system-ui, -apple-system, sans-serif;
+    background-color: #101012;
+    color: #f5f2ef;
+    overflow-x: hidden;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: "Newsreader", Georgia, Cambria, serif;
+  }
+}
+
+.hairline {
+  border-color: #2d2d34;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}

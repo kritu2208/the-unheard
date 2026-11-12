@@ -1,0 +1,305 @@
+{
+  "registry_version": "2.0.0",
+  "last_verified_date": "2026-11-11",
+  "latest_official_publication_year": 2023,
+  "latest_granular_state_year": 2022,
+  "sources": [
+    {
+      "slug": "ncrb-cii-2022",
+      "official_title": "Crime in India 2022 — Chapter 3A: Crime Against Women (States & UTs)",
+      "publisher": "National Crime Records Bureau (NCRB), Ministry of Home Affairs, Government of India",
+      "reporting_year": 2022,
+      "years_covered": [2020, 2021, 2022],
+      "publication_date": "2023-12-04",
+      "source_url": "https://www.ncrb.gov.in/crime-in-india-table-content.html?year=2022&category=Crime+against+Women",
+      "download_date": "2026-11-11",
+      "geographic_coverage": "28 States, 8 Union Territories, and All-India Totals",
+      "notes": "Complete official Excel (.xlsx) and reference PDF tables for Chapter 3A downloaded directly from ncrb.gov.in.",
+      "files": [
+        {
+          "relative_path": "ncrb_2022/1701935121TABLE3A1.xlsx",
+          "table_number": "TABLE 3A.1",
+          "title": "Crime against Women (IPC+SLL) - 2020-2022",
+          "unit": "Registered FIR Cases (Counts), Projected Female Population (Lakhs), Rate per Lakh Female Population, Chargesheeting Rate (%)",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1701935121TABLE3A1.xlsx",
+          "ingestion_role": "caw_multiyear_and_female_population"
+        },
+        {
+          "relative_path": "ncrb_2022/1701935135TABLE3A1.pdf",
+          "table_number": "TABLE 3A.1",
+          "title": "Crime against Women (IPC+SLL) - 2020-2022 (PDF archival copy)",
+          "unit": "Same as Excel TABLE 3A.1",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1701935135TABLE3A1.pdf",
+          "ingestion_role": "archival_reference"
+        },
+        {
+          "relative_path": "ncrb_2022/1701935197TABLE3A2.xlsx",
+          "table_number": "TABLE 3A.2",
+          "title": "IPC & SLL Crimes against Women (Crime Head-wise & States/UT-wise) - 2022",
+          "unit": "I = Cases Registered, V = Female Victims, R = Crime Rate per Lakh Female Population",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1701935197TABLE3A2.xlsx",
+          "ingestion_role": "state_crime_heads_ivr"
+        },
+        {
+          "relative_path": "ncrb_2022/1701935180TABLE3A2.pdf",
+          "table_number": "TABLE 3A.2",
+          "title": "IPC & SLL Crimes against Women - 2022 (PDF archival copy)",
+          "unit": "Same as Excel TABLE 3A.2",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1701935180TABLE3A2.pdf",
+          "ingestion_role": "archival_reference"
+        },
+        {
+          "relative_path": "ncrb_2022/1701935237TABLE3A3.xlsx",
+          "table_number": "TABLE 3A.3",
+          "title": "Victims of Rape (Age Group-wise) - 2022",
+          "unit": "Cases Reported and Female Victims by Age Group",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1701935237TABLE3A3.xlsx",
+          "ingestion_role": "rape_victim_age_groups"
+        },
+        {
+          "relative_path": "ncrb_2022/1701935296TABLE3A4.xlsx",
+          "table_number": "TABLE 3A.4",
+          "title": "Offenders Relation to Victims of Rape - 2022",
+          "unit": "Reported Rape Cases by Offender Relation Category and % Share of Known Offenders",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1701935296TABLE3A4.xlsx",
+          "ingestion_role": "rape_offender_relation"
+        },
+        {
+          "relative_path": "ncrb_2022/1701935331TABLE3A5.xlsx",
+          "table_number": "TABLE 3A.5",
+          "title": "Police Disposal of Crime against Women (Crime Head-wise) - 2022",
+          "unit": "Case Counts (Investigation Pending, Chargesheeted, True/FR) & Chargesheeting Rate (%)",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1701935331TABLE3A5.xlsx",
+          "ingestion_role": "national_police_disposal"
+        },
+        {
+          "relative_path": "ncrb_2022/1701935389TABLE3A6.xlsx",
+          "table_number": "TABLE 3A.6",
+          "title": "Police Disposal of Crime against Women (States/UT-wise) - 2022",
+          "unit": "Case Counts & Chargesheeting Rate (%) for Total Crime Against Women (Not Rape-only)",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1701935389TABLE3A6.xlsx",
+          "ingestion_role": "state_caw_police_disposal"
+        },
+        {
+          "relative_path": "ncrb_2022/1701935422TABLE3A7.xlsx",
+          "table_number": "TABLE 3A.7",
+          "title": "Court Disposal of Crime against Women (Crime Head-wise) - 2022",
+          "unit": "Case Counts (Trial Pending, Convicted, Acquitted, Discharged) & Conviction Rate (%)",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1701935422TABLE3A7.xlsx",
+          "ingestion_role": "national_court_disposal"
+        },
+        {
+          "relative_path": "ncrb_2022/1701935488TABLE3A8.xlsx",
+          "table_number": "TABLE 3A.8",
+          "title": "Court Disposal of Crime against Women (States/UT-wise) - 2022",
+          "unit": "Case Counts & Conviction Rate (%) for Total Crime Against Women (Not Rape-only)",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1701935488TABLE3A8.xlsx",
+          "ingestion_role": "state_caw_court_disposal"
+        },
+        {
+          "relative_path": "ncrb_2022/1701935624TABLE3A11.xlsx",
+          "table_number": "TABLE 3A.11",
+          "title": "Cases Registered under Rape (Section-wise) - 2022",
+          "unit": "Registered Cases (Sec. 376 / 376(I), Custodial Sec. 376(2), Other)",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1701935624TABLE3A11.xlsx",
+          "ingestion_role": "rape_section_wise"
+        }
+      ]
+    },
+    {
+      "slug": "ncrb-cii-2021",
+      "official_title": "Crime in India 2021 — Chapter 3A: Crime Against Women (States & UTs)",
+      "publisher": "National Crime Records Bureau (NCRB), Ministry of Home Affairs, Government of India",
+      "reporting_year": 2021,
+      "years_covered": [2019, 2020, 2021],
+      "publication_date": "2022-08-29",
+      "source_url": "https://www.ncrb.gov.in/crime-in-india-table-content.html?year=2021&category=Crime+against+Women",
+      "download_date": "2026-11-11",
+      "geographic_coverage": "28 States, 8 Union Territories, and All-India Totals",
+      "notes": "Complete official Chapter 3A Excel tables for 2021 downloaded from ncrb.gov.in.",
+      "files": [
+        {
+          "relative_path": "ncrb_2021/1679652741TABLE3A1.xlsx",
+          "table_number": "TABLE 3A.1",
+          "title": "Crime against Women (IPC+SLL) - 2019-2021",
+          "unit": "Registered FIR Cases, Projected Female Population (Lakhs, 2021), Rate, Chargesheeting Rate (%)",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/post/1679652741TABLE3A1.xlsx",
+          "ingestion_role": "caw_multiyear_and_female_population"
+        },
+        {
+          "relative_path": "ncrb_2021/1679652792TABLE3A2.xlsx",
+          "table_number": "TABLE 3A.2",
+          "title": "IPC & SLL Crimes against Women (Crime Head-wise & States/UT-wise) - 2021",
+          "unit": "I = Cases Registered, V = Female Victims, R = Crime Rate per Lakh Female Population",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/post/1679652792TABLE3A2.xlsx",
+          "ingestion_role": "state_crime_heads_ivr"
+        },
+        {
+          "relative_path": "ncrb_2021/1679652843TABLE3A3.xlsx",
+          "table_number": "TABLE 3A.3",
+          "title": "Victims of Rape (Age Group-wise) - 2021",
+          "unit": "Cases Reported and Female Victims by Age Group",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/post/1679652843TABLE3A3.xlsx",
+          "ingestion_role": "rape_victim_age_groups"
+        },
+        {
+          "relative_path": "ncrb_2021/1679652892TABLE3A4.xlsx",
+          "table_number": "TABLE 3A.4",
+          "title": "Offenders Relation to Victims of Rape - 2021",
+          "unit": "Reported Rape Cases by Offender Relation Category",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/post/1679652892TABLE3A4.xlsx",
+          "ingestion_role": "rape_offender_relation"
+        },
+        {
+          "relative_path": "ncrb_2021/1679652955TABLE3A5.xlsx",
+          "table_number": "TABLE 3A.5",
+          "title": "Police Disposal of Crime against Women (Crime Head-wise) - 2021",
+          "unit": "Case Counts & Chargesheeting Rate (%)",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/post/1679652955TABLE3A5.xlsx",
+          "ingestion_role": "national_police_disposal"
+        },
+        {
+          "relative_path": "ncrb_2021/1679653003TABLE3A6.xlsx",
+          "table_number": "TABLE 3A.6",
+          "title": "Police Disposal of Crime against Women (States/UT-wise) - 2021",
+          "unit": "Case Counts & Chargesheeting Rate (%) for Total Crime Against Women",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/post/1679653003TABLE3A6.xlsx",
+          "ingestion_role": "state_caw_police_disposal"
+        },
+        {
+          "relative_path": "ncrb_2021/1679653050TABLE3A7.xlsx",
+          "table_number": "TABLE 3A.7",
+          "title": "Court Disposal of Crime against Women (Crime Head-wise) - 2021",
+          "unit": "Case Counts & Conviction Rate (%)",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/post/1679653050TABLE3A7.xlsx",
+          "ingestion_role": "national_court_disposal"
+        },
+        {
+          "relative_path": "ncrb_2021/1679653099TABLE3A8.xlsx",
+          "table_number": "TABLE 3A.8",
+          "title": "Court Disposal of Crime against Women (States/UT-wise) - 2021",
+          "unit": "Case Counts & Conviction Rate (%) for Total Crime Against Women",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/post/1679653099TABLE3A8.xlsx",
+          "ingestion_role": "state_caw_court_disposal"
+        },
+        {
+          "relative_path": "ncrb_2021/1679653232TABLE3A11.xlsx",
+          "table_number": "TABLE 3A.11",
+          "title": "Cases Registered under Rape (Section-wise) - 2021",
+          "unit": "Registered Cases (Section-wise)",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/post/1679653232TABLE3A11.xlsx",
+          "ingestion_role": "rape_section_wise"
+        }
+      ]
+    },
+    {
+      "slug": "ncrb-cii-2020",
+      "official_title": "Crime in India 2020 — Chapter 3A: Crime Against Women (States & UTs)",
+      "publisher": "National Crime Records Bureau (NCRB), Ministry of Home Affairs, Government of India",
+      "reporting_year": 2020,
+      "years_covered": [2018, 2019, 2020],
+      "publication_date": "2021-09-14",
+      "source_url": "https://www.ncrb.gov.in/crime-in-india-table-content.html?year=2020&category=Crime+against+Women",
+      "download_date": "2026-11-11",
+      "geographic_coverage": "28 States, 8 Union Territories (with 2018-2019 footnote markers for erstwhile J&K and DNH/DD), All-India Totals",
+      "notes": "Excel files preserved for TABLE3A1, 3A2, 3A5, 3A7, 3A11. Note: NCRB hosts 2020 TABLE 3A.3 and 3A.4 as PDF-only, and TABLE 3A.6 / 3A.8 links were 0-byte placeholders on ncrb.gov.in.",
+      "files": [
+        {
+          "relative_path": "ncrb_2020/1680767998TABLE3A1.xlsx",
+          "table_number": "TABLE 3A.1",
+          "title": "Crime against Women (IPC+SLL) - 2018-2020",
+          "unit": "Registered FIR Cases, Projected Female Population (Lakhs, 2020), Rate, Chargesheeting Rate (%)",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/post/1680767998TABLE3A1.xlsx",
+          "ingestion_role": "caw_multiyear_and_female_population"
+        },
+        {
+          "relative_path": "ncrb_2020/TABLE-3A.2.xlsx",
+          "table_number": "TABLE 3A.2",
+          "title": "IPC & SLL Crimes against Women (Crime Head-wise & States/UT-wise) - 2020",
+          "unit": "I = Cases Registered, V = Female Victims, R = Crime Rate per Lakh Female Population",
+          "url": "https://www.ncrb.gov.in/uploads/2022/July/11/custom/crime-in-india/TABLE-3A.2.xlsx",
+          "ingestion_role": "state_crime_heads_ivr"
+        },
+        {
+          "relative_path": "ncrb_2020/TABLE-3A.3.pdf",
+          "table_number": "TABLE 3A.3",
+          "title": "Victims of Rape (Age Group-wise) - 2020 (PDF)",
+          "unit": "Cases Reported and Female Victims by Age Group",
+          "url": "https://www.ncrb.gov.in/uploads/2022/July/11/custom/crime-in-india/TABLE-3A.3.pdf",
+          "ingestion_role": "pdf_rape_victim_age_groups"
+        },
+        {
+          "relative_path": "ncrb_2020/TABLE-3A.4.pdf",
+          "table_number": "TABLE 3A.4",
+          "title": "Offenders Relation to Victims of Rape - 2020 (PDF)",
+          "unit": "Reported Rape Cases by Offender Relation Category",
+          "url": "https://www.ncrb.gov.in/uploads/2022/July/11/custom/crime-in-india/TABLE-3A.4.pdf",
+          "ingestion_role": "pdf_rape_offender_relation"
+        },
+        {
+          "relative_path": "ncrb_2020/1680767206TABLE3A5.xlsx",
+          "table_number": "TABLE 3A.5",
+          "title": "Police Disposal of Crime against Women (Crime Head-wise) - 2020",
+          "unit": "Case Counts & Chargesheeting Rate (%)",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/post/1680767206TABLE3A5.xlsx",
+          "ingestion_role": "national_police_disposal"
+        },
+        {
+          "relative_path": "ncrb_2020/1680767275TABLE3A7.xlsx",
+          "table_number": "TABLE 3A.7",
+          "title": "Court Disposal of Crime against Women (Crime Head-wise) - 2020",
+          "unit": "Case Counts & Conviction Rate (%)",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/post/1680767275TABLE3A7.xlsx",
+          "ingestion_role": "national_court_disposal"
+        },
+        {
+          "relative_path": "ncrb_2020/1680767960TABLE3A11.xlsx",
+          "table_number": "TABLE 3A.11",
+          "title": "Cases Registered under Rape (Section-wise) - 2020",
+          "unit": "Registered Cases (Section-wise)",
+          "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/post/1680767960TABLE3A11.xlsx",
+          "ingestion_role": "rape_section_wise"
+        }
+      ]
+    },
+    {
+      "slug": "ncrb-cii-2023-official-pdfs",
+      "official_title": "Crime in India 2023 — Official Snapshot & Projected Total Population (Hindi/Bilingual PDFs)",
+      "publisher": "National Crime Records Bureau (NCRB), Ministry of Home Affairs, Government of India",
+      "reporting_year": 2023,
+      "years_covered": [2023],
+      "publication_date": null,
+      "source_url": "https://www.ncrb.gov.in/crime-in-india-year-wise.html?year=2023",
+      "download_date": "2026-11-11",
+      "geographic_coverage": "National Crime Against Women snapshot (9-2023.pdf) and State/UT Total Projected Population (6Population2023.pdf). State-wise Chapter 3A Rape Excel tables are not published on ncrb.gov.in table-content as of 2026-11-11.",
+      "notes": "9-2023.pdf provides the official 2023 national Crime Against Women total (4,48,211 cases; 66.2 rate per lakh female population vs 4,45,256 / 66.4 in 2022) and POCSO total (66,232 within CAW). Individual Table 3A Excel sheets (State-wise Sec. 376 Rape) require official release or verified manual import.",
+      "files": [
+        {
+          "relative_path": "ncrb_2023/2-2023.pdf",
+          "table_number": "Contents / Prelims",
+          "title": "Crime in India 2023 Part-I Table of Contents (Hindi)",
+          "unit": "Document Metadata / Disclaimers",
+          "url": "https://www.ncrb.mha.gov.in/uploads/files/2-2023.pdf",
+          "ingestion_role": "pdf_inspection_only"
+        },
+        {
+          "relative_path": "ncrb_2023/6Population2023.pdf",
+          "table_number": "Page viii (Population Projection)",
+          "title": "Projected Population - State/UT (2023, in Lakhs — Total Population)",
+          "unit": "Projected Total Mid-Year Population (Lakhs — NOT female-only)",
+          "url": "https://www.ncrb.mha.gov.in/uploads/files/6Population2023.pdf",
+          "ingestion_role": "pdf_total_population"
+        },
+        {
+          "relative_path": "ncrb_2023/9-2023.pdf",
+          "table_number": "Snapshots [Table 3A.1 / 3A.2 national highlights]",
+          "title": "Crime in India 2023 Snapshots (States/UTs Summary)",
+          "unit": "National Registered Cases & Female Crime Rate",
+          "url": "https://www.ncrb.mha.gov.in/uploads/files/9-2023.pdf",
+          "ingestion_role": "pdf_national_caw_2023"
+        }
+      ]
+    }
+  ]
+}
+
