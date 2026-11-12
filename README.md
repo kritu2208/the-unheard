@@ -16,6 +16,57 @@
 
 ---
 
+## 🔍 Key Analytical Findings — "Sabse Jyada Kahan Kya Hai?"
+
+Official NCRB records reveal stark contrasts depending on whether one looks at **absolute registered case volumes** (driven by population size) or **population-adjusted crime rates per 100,000 females**:
+
+### 1. Reported Rape Cases (Sec. 376 IPC — 2022)
+- **Highest by Absolute FIR Volume (Cases):**
+  1. **Rajasthan**: **5,399 cases** (#1 in India — 17.1% of national total)
+  2. **Uttar Pradesh**: **3,690 cases** (#2)
+  3. **Madhya Pradesh**: **3,029 cases** (#3)
+  4. **Maharashtra**: **2,904 cases** (#4)
+  5. **Haryana**: **1,787 cases** (#5)
+  6. **Odisha**: **1,464 cases** (#6)
+- **Highest by Population Rate (per 100k Female Population):**
+  1. **Uttarakhand**: **15.4** per 100k females
+  2. **Chandigarh (UT)**: **13.9** per 100k females
+  3. **Rajasthan**: **13.8** per 100k females
+  4. **Haryana**: **12.7** per 100k females
+  5. **Delhi (NCT)**: **12.3** per 100k females
+  *(National Average: **4.7** per 100,000 females)*
+- **Lowest Reported Cases (2022):**
+  - **Lakshadweep**: 4 cases | **Ladakh**: 5 cases | **Nagaland**: 7 cases | **Puducherry**: 9 cases | **D&NH and D&D**: 9 cases.
+
+---
+
+### 2. Total Crimes Against Women (All CAW Heads Combined — 2022)
+- **Highest by Absolute Volume (445,256 National Total):**
+  1. **Uttar Pradesh**: **65,743 cases** (14.8% of All-India CAW)
+  2. **Maharashtra**: **45,331 cases** (10.2%)
+  3. **Rajasthan**: **45,058 cases** (10.1%)
+  4. **West Bengal**: **34,738 cases** (7.8%)
+  5. **Madhya Pradesh**: **32,765 cases** (7.4%)
+- **Highest by CAW Rate per 100k Females:**
+  1. **Delhi (NCT)**: **144.4** per 100k females (#1 highest reporting intensity)
+  2. **Haryana**: **118.7** per 100k females
+  3. **Telangana**: **117.0** per 100k females
+  4. **Rajasthan**: **115.1** per 100k females
+  5. **Odisha**: **103.3** per 100k females
+  *(National Average: **66.4** per 100,000 females)*
+
+---
+
+### 3. Judicial & Investigation Findings (2020–2022)
+- **Police Chargesheet Rate:** **77.9%** nationally (Police complete investigation and file formal charges in roughly 7 out of 8 cases).
+- **Court Conviction Rate:** **27.4%** nationally (Only ~1 in 4 concluded trials results in conviction).
+- **Trial Pendency Rate:** **90.0%** of active court cases remain pending trial year-on-year.
+- **Survivor-Offender Relationship (Table 3A.4):** In **96.8%** of registered Sec. 376 rape cases, the accused was a person **known to the survivor** (family, intimate partner, neighbor, or acquaintance).
+
+> **Statutory Analytical Warning:** High FIR registration in states like Rajasthan or Delhi often reflects **mandatory FIR registration drives, greater civil awareness, and active police reporting assistance**, whereas lower counts in certain regions can reflect systemic under-reporting and societal stigma rather than greater objective safety.
+
+---
+
 ## 📖 Key Terms & Abbreviations Explained
 
 When analyzing official crime statistics in India, terminological precision is essential to avoid misinterpretation:
