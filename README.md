@@ -16,73 +16,35 @@
 
 ---
 
-## 🔍 Key Analytical Findings & Jurisdictional Distribution
+## 🔍 Key Analytical Insights (NCRB 2022)
 
-Official NCRB records reveal stark contrasts depending on whether one looks at **absolute registered case volumes** (driven by population size) or **population-adjusted crime rates per 100,000 females**:
+The analytics expose the critical gap between raw police FIR counts and true demographic intensity:
 
-### 1. Reported Rape Cases (Sec. 376 IPC — 2022)
-- **Highest by Absolute FIR Volume (Cases):**
-  1. **Rajasthan**: **5,399 cases** (#1 in India — 17.1% of national total)
-  2. **Uttar Pradesh**: **3,690 cases** (#2)
-  3. **Madhya Pradesh**: **3,029 cases** (#3)
-  4. **Maharashtra**: **2,904 cases** (#4)
-  5. **Haryana**: **1,787 cases** (#5)
-  6. **Odisha**: **1,464 cases** (#6)
-- **Highest by Population Rate (per 100k Female Population):**
-  1. **Uttarakhand**: **15.4** per 100k females
-  2. **Chandigarh (UT)**: **13.9** per 100k females
-  3. **Rajasthan**: **13.8** per 100k females
-  4. **Haryana**: **12.7** per 100k females
-  5. **Delhi (NCT)**: **12.3** per 100k females
-  *(National Average: **4.7** per 100,000 females)*
-- **Lowest Reported Cases (2022):**
-  - **Lakshadweep**: 4 cases | **Ladakh**: 5 cases | **Nagaland**: 7 cases | **Puducherry**: 9 cases | **D&NH and D&D**: 9 cases.
+### 1. Reported Rape Cases (Sec. 376 IPC)
+- **Top 3 by Absolute FIR Volume:**  
+  1. **Rajasthan**: **5,399** cases *(17.1% of national total)*  
+  2. **Uttar Pradesh**: **3,690** cases  
+  3. **Madhya Pradesh**: **3,029** cases  
+- **Top 3 by Population-Adjusted Rate (per 100k females):**  
+  1. **Uttarakhand**: **15.4** per 100k  
+  2. **Chandigarh (UT)**: **13.9** per 100k  
+  3. **Rajasthan**: **13.8** per 100k  
+  *(All-India Average: **4.7** per 100k)*
 
----
+### 2. Crimes Against Women (Total CAW — IPC + SLL)
+- **Top 3 by Absolute FIR Volume (445,256 National Total):**  
+  1. **Uttar Pradesh**: **65,743** cases *(14.8% of national total)*  
+  2. **Maharashtra**: **45,331** cases  
+  3. **Rajasthan**: **45,058** cases  
+- **Top 3 by Reporting Intensity (Rate per 100k females):**  
+  1. **Delhi (NCT)**: **144.4** per 100k *(Highest in India)*  
+  2. **Haryana**: **118.7** per 100k  
+  3. **Telangana**: **117.0** per 100k  
+  *(All-India Average: **66.4** per 100k)*
 
-### 2. Total Crimes Against Women (All CAW Heads Combined — 2022)
-- **Highest by Absolute Volume (445,256 National Total):**
-  1. **Uttar Pradesh**: **65,743 cases** (14.8% of All-India CAW)
-  2. **Maharashtra**: **45,331 cases** (10.2%)
-  3. **Rajasthan**: **45,058 cases** (10.1%)
-  4. **West Bengal**: **34,738 cases** (7.8%)
-  5. **Madhya Pradesh**: **32,765 cases** (7.4%)
-- **Highest by CAW Rate per 100k Females:**
-  1. **Delhi (NCT)**: **144.4** per 100k females (#1 highest reporting intensity)
-  2. **Haryana**: **118.7** per 100k females
-  3. **Telangana**: **117.0** per 100k females
-  4. **Rajasthan**: **115.1** per 100k females
-  5. **Odisha**: **103.3** per 100k females
-  *(National Average: **66.4** per 100,000 females)*
-
----
-
-### 3. Judicial & Investigation Findings (2020–2022)
-- **Police Chargesheet Rate:** **77.9%** nationally (Police complete investigation and file formal charges in roughly 7 out of 8 cases).
-- **Court Conviction Rate:** **27.4%** nationally (Only ~1 in 4 concluded trials results in conviction).
-- **Trial Pendency Rate:** **90.0%** of active court cases remain pending trial year-on-year.
-- **Survivor-Offender Relationship (Table 3A.4):** In **96.8%** of registered Sec. 376 rape cases, the accused was a person **known to the survivor** (family, intimate partner, neighbor, or acquaintance).
-
-> **Statutory Analytical Warning:** High FIR registration in states like Rajasthan or Delhi often reflects **mandatory FIR registration drives, greater civil awareness, and active police reporting assistance**, whereas lower counts in certain regions can reflect systemic under-reporting and societal stigma rather than greater objective safety.
-
----
-
-## 📖 Key Terms & Abbreviations Explained
-
-When analyzing official crime statistics in India, terminological precision is essential to avoid misinterpretation:
-
-| Term / Abbreviation | Full Form & Legal Definition | Significance in Analysis |
-| :--- | :--- | :--- |
-| **CAW** | **Crimes Against Women** | Broad statutory umbrella encompassing all IPC crimes against women (Rape, Cruelty by Husband/Relatives, Kidnapping, Dowry Deaths, Assault) plus Special and Local Laws (SLL). **Never conflated with Rape alone.** |
-| **Sec. 376 IPC** | **Section 376 Indian Penal Code** | The specific statutory section governing rape offences in India (broadened post-2013 Criminal Law Amendment; transitioned to Sections 63–71 of the Bharatiya Nyaya Sanhita / BNS effective 1 July 2024). |
-| **NCRB** | **National Crime Records Bureau** | Attached office of the Ministry of Home Affairs (MHA), Government of India, responsible for collecting and compiling national crime records under the annual *Crime in India* publication. |
-| **Cases (I)** | **Registered Police Cases (Incidents / FIRs)** | Number of First Information Reports (FIRs) officially registered by police departments. |
-| **Victims (V)** | **Number of Survivors / Victims** | Actual count of individual survivors involved in registered cases. A single case/FIR can involve multiple victims ($V \ge I$). |
-| **Rate per 100k** | **Crime Rate per 100,000 Female Population** | $\text{Rate} = \frac{\text{Reported Cases}}{\text{Projected Mid-Year Female Population (in Lakhs)}}$. Calculated strictly using Registrar General of India (RGI) census projections. |
-| **Principal Offence Rule** | **NCRB Counting Rule** | When a single incident involves multiple offences (e.g. Rape and Murder), it is counted **only once** under the offence carrying the highest statutory penalty. |
-| **Chargesheet Rate (%)** | **Police Investigation Completion** | Percentage of investigated cases where the police filed a formal chargesheet in court out of total cases where investigation was completed. |
-| **Conviction Rate (%)** | **Judicial Outcome** | Percentage of completed court trials resulting in conviction out of total trials completed that year. |
-| **Trial Pendency (%)** | **Judicial Congestion** | Percentage of active court cases awaiting completion of trial at the end of the reporting year. |
+### 3. Judicial Attrition & Offender Reality
+- **Police Investigation vs. Trial Outcome:** While police complete investigation and chargesheet **77.9%** of cases, only **27.4%** of concluded court trials end in conviction, with **90.0%** of cases remaining locked in trial pendency.
+- **Survivor-Offender Relationship:** In **96.8%** of registered Sec. 376 cases (Table 3A.4), the accused was known to the survivor (family, partner, neighbor, or acquaintance).
 
 ---
 
@@ -113,6 +75,23 @@ When analyzing official crime statistics in India, terminological precision is e
 ### 4. Side-by-Side Jurisdictional Comparison
 ![State Comparison Panel](docs/screenshots/04_state_comparison.png)
 - Direct side-by-side indicator comparison between any two States/UTs (e.g., Rajasthan vs. Maharashtra) normalizing reported counts against projected female population denominators (Lakhs).
+
+---
+
+## 📖 Key Terms & Abbreviations Explained
+
+| Term / Abbreviation | Full Form & Legal Definition | Significance in Analysis |
+| :--- | :--- | :--- |
+| **CAW** | **Crimes Against Women** | Broad statutory umbrella encompassing all IPC crimes against women (Rape, Cruelty by Husband/Relatives, Kidnapping, Dowry Deaths, Assault) plus Special and Local Laws (SLL). **Never conflated with Rape alone.** |
+| **Sec. 376 IPC** | **Section 376 Indian Penal Code** | The specific statutory section governing rape offences in India (broadened post-2013 Criminal Law Amendment; transitioned to Sections 63–71 of the Bharatiya Nyaya Sanhita / BNS effective 1 July 2024). |
+| **NCRB** | **National Crime Records Bureau** | Attached office of the Ministry of Home Affairs (MHA), Government of India, responsible for collecting and compiling national crime records under the annual *Crime in India* publication. |
+| **Cases (I)** | **Registered Police Cases (Incidents / FIRs)** | Number of First Information Reports (FIRs) officially registered by police departments. |
+| **Victims (V)** | **Number of Survivors / Victims** | Actual count of individual survivors involved in registered cases. A single case/FIR can involve multiple victims ($V \ge I$). |
+| **Rate per 100k** | **Crime Rate per 100,000 Female Population** | $\text{Rate} = \frac{\text{Reported Cases}}{\text{Projected Mid-Year Female Population (in Lakhs)}}$. Calculated strictly using Registrar General of India (RGI) census projections. |
+| **Principal Offence Rule** | **NCRB Counting Rule** | When a single incident involves multiple offences (e.g. Rape and Murder), it is counted **only once** under the offence carrying the highest statutory penalty. |
+| **Chargesheet Rate (%)** | **Police Investigation Completion** | Percentage of investigated cases where the police filed a formal chargesheet in court out of total cases where investigation was completed. |
+| **Conviction Rate (%)** | **Judicial Outcome** | Percentage of completed court trials resulting in conviction out of total trials completed that year. |
+| **Trial Pendency (%)** | **Judicial Congestion** | Percentage of active court cases awaiting completion of trial at the end of the reporting year. |
 
 ---
 
