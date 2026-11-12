@@ -16,7 +16,7 @@
 
 ---
 
-## 🔍 Key Analytical Findings — "Sabse Jyada Kahan Kya Hai?"
+## 🔍 Key Analytical Findings & Jurisdictional Distribution
 
 Official NCRB records reveal stark contrasts depending on whether one looks at **absolute registered case volumes** (driven by population size) or **population-adjusted crime rates per 100,000 females**:
 
